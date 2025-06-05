@@ -1,4 +1,7 @@
-# Nathan Pierce's Career Development Blog
+---
+title: "Nathan Pierce's Career Development Blog"
+date: 2025-06-05
+---
 
 My name is Nathan, and as of 2025, I am working towards a career in Data Science from a mostly technical-support focused field.
 
