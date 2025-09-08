@@ -1,0 +1,18 @@
+---
+title: Data & Research Methods Project and Beyond
+date: 2025-09-08
+---
+
+Happy Monday!  
+
+It's been some time since my last post, but more progress has been made!  Last Friday, I completed the [Data & Research Methods Project](https://nebigdatahub.org/drm-project/), which was an incredible program to help gain some more experience and understanding of the Data Science Role.  It provides the scenario where you are a data scientist for a fictional city that is seeing an influx of people moving in who are remote workers.  The mayor of this town has tasked you with doing research and testing to recommend data-driven policies (infrastructure, economic, etc.) to help accomodate this influx.
+
+It did a wonderful job of starting with some desk research to get a better undstanding about the world of remote work and its observed impacts and reactions, to practicing data cleanup on real-world census survey data, to performing statistical testing and presenting that information to executives in a concise manner.  It created an environment where it was completley safe to mess up or start over (which I definitely needed to do in one section), but was close enough to being real that it felt like everything I was doing was impactful.
+
+I completed the project solely in Google Sheets (Excel is an option as well if you had a license).  Though I have been learning Python, Tableau, PowerBI, and the such over the past year, I appreciated that the project focused on Sheets or Excel.  I feel most people have at least encountered a spreadsheet in their life, where more specialized tools or leveraging programming languages would require learning a whole new skillset.  By using something more familiar, it allowed you to focus on learning data science methodologies.  That being said, attempting to create visualizations in Google Sheets made me appreciate the other tools I've been learning much more!  If I get time, I may be interested in going through the later milestones of the project in Python now that I'm familiar with the data set.
+
+While I was working through the project, I did miss programming a bit and had a free Saturday to make a fun little project.  I have been doing a challenge with the Pokemon series that involves using a limited pool of Pokemon that you randomly encounter.  In the latest game that came out, Scarlet and Violet, that random encounters had been removed in support of the newer open-world nature of the games.  To remedy this, I made a quick little randomizer to "assign" a Pokemon for each area explored.  It's pretty messy right now where I was the target audience, but I may clean it up and possibly expand it later.  If you're interested in looking into it, feel free to check it out [here](https://github.com/thenatepierce/scarvirandomizer)!
+
+Moving forward, I have started a new project from the Northeast Big Data Innovation Hub!  [This one](https://nebigdatahub.org/nsdc-data-science-project-sentiment-analysis/) focuses on Python, which I am excited for.  This is going to be my first foray into machine learning models and natural language processing, which I have yet to really scratch the surface of.  I will try to update the blog more as I progress through this one, but I think I've rambled enough for now.
+
+Thanks for reading, stay tuned for more!
